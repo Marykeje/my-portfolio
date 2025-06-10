@@ -1,0 +1,37 @@
+/* Inter */
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap");
+// roboto
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.6rem;
+  font-weight: 400;
+  font-family: "Roboto";
+  //   color: #f5caf5;
+  color: #ffffff;
+  background-color: #353535;
+  // background-color: #e6d6f8;
+}
+
+.container {
+  max-width: 140rem;
+  margin: auto;
+  padding: 1.5rem 2.4rem;
+  //   padding-left: 2.4rem;
+  //   padding-right: 2.4rem;
+}
+.sub-heading {
+  font-size: 3rem;
+  font-family: "Roboto";
+  color: #800080;
+}
